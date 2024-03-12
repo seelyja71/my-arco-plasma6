@@ -1,0 +1,35 @@
+[file:///etc/pacman.conf]
+Bookmarks=
+Checksum=f329c0811f0ce5da47c83ea84cfde8224507ffe3
+Encoding=UTF-8
+Highlighting=TOML
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=TOML
+Mode Set By User=false
+Time=2024,2,20,9,8,29.324
+URL=file:///etc/pacman.conf
+
+[file:///home/jeff/arco-chadwm/up.sh]
+Bookmarks=
+Checksum=1a6d2044cb0ad8950118e20039d5503fdbe7f44d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2024,2,28,4,23,35.471
+URL=file:///home/jeff/arco-chadwm/up.sh
+
+[file:///home/jeff/arco-plasma/up.sh]
+Bookmarks=
+Checksum=1a6d2044cb0ad8950118e20039d5503fdbe7f44d
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2024,2,26,18,15,1.714
+URL=file:///home/jeff/arco-plasma/up.sh

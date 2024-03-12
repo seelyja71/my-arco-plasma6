@@ -1,0 +1,21 @@
+2024/03/11-15:10:41.448 5b2 Reusing MANIFEST /home/jeff/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2024/03/11-15:10:41.450 5b2 Recovering log #99
+2024/03/11-15:10:41.558 5b2 Reusing old log /home/jeff/.config/google-chrome/Default/Extension State/000099.log 
+2024/03/11-15:11:04.080 58e Level-0 table #103: started
+2024/03/11-15:11:04.118 58e Level-0 table #103: 4155151 bytes OK
+2024/03/11-15:11:04.141 58e Delete type=0 #99
+2024/03/11-21:02:37.068 58d Level-0 table #105: started
+2024/03/11-21:02:37.094 58d Level-0 table #105: 4163953 bytes OK
+2024/03/11-21:02:37.111 58d Delete type=0 #102
+2024/03/12-00:23:13.014 58e Level-0 table #107: started
+2024/03/12-00:23:13.041 58e Level-0 table #107: 4158308 bytes OK
+2024/03/12-00:23:13.055 58e Delete type=0 #104
+2024/03/12-00:23:13.057 58e Compacting 4@0 + 1@1 files
+2024/03/12-00:23:13.084 58e Generated table #108@0: 4 keys, 9692 bytes
+2024/03/12-00:23:13.084 58e Compacted 4@0 + 1@1 files => 9692 bytes
+2024/03/12-00:23:13.093 58e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/12-00:23:13.094 58e Delete type=2 #98
+2024/03/12-00:23:13.094 58e Delete type=2 #100
+2024/03/12-00:23:13.095 58e Delete type=2 #103
+2024/03/12-00:23:13.095 58e Delete type=2 #105
+2024/03/12-00:23:13.095 58e Delete type=2 #107

@@ -1,0 +1,8 @@
+[General]
+SplitterSizes=542,723
+
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+ToolBarsMovable=Disabled

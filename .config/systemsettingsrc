@@ -1,0 +1,16 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/IMG_20231106_144738.jpg
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+2560x1440 screen: XPosition=1410
+2560x1440 screen: YPosition=706
+2560x1600 screen: XPosition=1410
+2560x1600 screen: YPosition=725
+3840x2160 screen: XPosition=1410
+3840x2160 screen: YPosition=725
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

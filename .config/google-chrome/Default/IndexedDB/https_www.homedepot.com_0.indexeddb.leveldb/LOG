@@ -1,0 +1,25 @@
+2024/02/26-09:30:12.087 5c6 Reusing MANIFEST /home/jeff/.config/google-chrome/Default/IndexedDB/https_www.homedepot.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/26-09:30:12.087 5c6 Recovering log #15
+2024/02/26-09:30:12.087 5c6 Reusing old log /home/jeff/.config/google-chrome/Default/IndexedDB/https_www.homedepot.com_0.indexeddb.leveldb/000015.log 
+2024/02/26-09:30:12.088 5c6 Delete type=2 #14
+2024/02/26-09:30:14.617 5c9 Level-0 table #20: started
+2024/02/26-09:30:14.622 5c9 Level-0 table #20: 28210 bytes OK
+2024/02/26-09:30:14.631 5c9 Delete type=0 #15
+2024/02/26-09:30:14.631 5c6 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 1077 : 1
+2024/02/26-09:30:14.631 5c6 Compacting 1@0 + 1@1 files
+2024/02/26-09:30:14.642 5c6 Generated table #21@0: 145 keys, 3020 bytes
+2024/02/26-09:30:14.642 5c6 Compacted 1@0 + 1@1 files => 3020 bytes
+2024/02/26-09:30:14.648 5c6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/26-09:30:14.649 5c6 Delete type=2 #20
+2024/02/26-09:30:14.649 5c6 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 1077 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/26-09:30:14.650 5c6 Level-0 table #23: started
+2024/02/26-09:30:14.655 5c6 Level-0 table #23: 486 bytes OK
+2024/02/26-09:30:14.668 5c6 Delete type=2 #17
+2024/02/26-09:30:14.668 5c6 Delete type=0 #19
+2024/02/26-09:30:14.668 5c6 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 1136 : 0
+2024/02/26-09:30:14.668 5c6 Compacting 1@0 + 1@1 files
+2024/02/26-09:30:14.676 5c6 Generated table #24@0: 147 keys, 3120 bytes
+2024/02/26-09:30:14.676 5c6 Compacted 1@0 + 1@1 files => 3120 bytes
+2024/02/26-09:30:14.689 5c6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/26-09:30:14.689 5c6 Delete type=2 #23
+2024/02/26-09:30:14.690 5c6 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 1136 : 0 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

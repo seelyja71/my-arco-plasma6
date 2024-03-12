@@ -1,0 +1,11 @@
+[Favorites-org.kde.plasma.kicker.favorites.instance-38-1fe86127-d67b-4797-816f-87c2194fc798]
+ordering=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:org.manjaro.pamac.manager.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-38-global]
+ordering=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:org.manjaro.pamac.manager.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-48-1fe86127-d67b-4797-816f-87c2194fc798]
+ordering=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:org.manjaro.pamac.manager.desktop,applications:Alacritty.desktop
+
+[Favorites-org.kde.plasma.kicker.favorites.instance-48-global]
+ordering=applications:firefox.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.konsole.desktop,applications:org.manjaro.pamac.manager.desktop,applications:Alacritty.desktop

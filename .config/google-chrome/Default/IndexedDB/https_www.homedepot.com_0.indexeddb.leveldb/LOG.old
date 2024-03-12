@@ -1,0 +1,17 @@
+2024/02/26-09:29:40.298 5c6 Reusing MANIFEST /home/jeff/.config/google-chrome/Default/IndexedDB/https_www.homedepot.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/26-09:29:40.298 5c6 Recovering log #9
+2024/02/26-09:29:40.298 5c6 Reusing old log /home/jeff/.config/google-chrome/Default/IndexedDB/https_www.homedepot.com_0.indexeddb.leveldb/000009.log 
+2024/02/26-09:30:08.686 5da Level-0 table #14: started
+2024/02/26-09:30:08.691 5da Level-0 table #14: 28491 bytes OK
+2024/02/26-09:30:08.700 5da Delete type=0 #9
+2024/02/26-09:30:08.700 5c9 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/26-09:30:08.701 5c9 Level-0 table #16: started
+2024/02/26-09:30:08.707 5c9 Level-0 table #16: 493 bytes OK
+2024/02/26-09:30:08.719 5c9 Delete type=0 #13
+2024/02/26-09:30:08.720 5c6 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 914 : 0
+2024/02/26-09:30:08.720 5c6 Compacting 1@0 + 1@1 files
+2024/02/26-09:30:08.729 5c6 Generated table #17@0: 120 keys, 2332 bytes
+2024/02/26-09:30:08.730 5c6 Compacted 1@0 + 1@1 files => 2332 bytes
+2024/02/26-09:30:08.742 5c6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/26-09:30:08.742 5c6 Delete type=2 #16
+2024/02/26-09:30:08.745 5c6 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 914 : 0 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
